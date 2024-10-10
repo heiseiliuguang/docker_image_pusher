@@ -1,4 +1,7 @@
 seatable/seatable-developer:latest
+seatable/mariadb:10.11
+seatable/memcached:1.5.6
+seatable/redis:5.0.7
 nginx
 nginx:alpine
 #支持私库
