@@ -8,3 +8,4 @@ xhofe/alist:latest
 dockurr/windows
 alpine
 library/nginx:alpine
+seatable/seatable-developer:latest
