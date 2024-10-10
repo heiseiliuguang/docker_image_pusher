@@ -1,3 +1,4 @@
+seatable/seatable-developer:latest
 nginx
 nginx:alpine
 #支持私库
@@ -8,4 +9,4 @@ xhofe/alist:latest
 dockurr/windows
 alpine
 library/nginx:alpine
-seatable/seatable-developer:latest
+
