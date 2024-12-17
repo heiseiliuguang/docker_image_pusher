@@ -1,3 +1,4 @@
+docker-webvirtmgr/docker-webvirtmgr:latest
 primiano/docker-webvirtmgr:latest
 seatable/seatable-developer:latest
 seatable/mariadb:10.11
