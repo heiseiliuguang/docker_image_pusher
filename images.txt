@@ -1,3 +1,4 @@
+primiano/docker-webvirtmgr
 seatable/seatable-developer:latest
 seatable/mariadb:10.11
 seatable/memcached:1.5.6
